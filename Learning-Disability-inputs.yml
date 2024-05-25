@@ -1,0 +1,48 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/learning-disability-unspecified---primary.py
+inputModule3:
+  class: File
+  path: python/moderate-learning-disability---primary.py
+inputModule4:
+  class: File
+  path: python/learning-disability-behaviour---primary.py
+inputModule5:
+  class: File
+  path: python/learning-disability-range---primary.py
+inputModule6:
+  class: File
+  path: python/learning-disability-skill---primary.py
+inputModule7:
+  class: File
+  path: python/specific-learning-disability---primary.py
+inputModule8:
+  class: File
+  path: python/developmental-learning-disability---primary.py
+inputModule9:
+  class: File
+  path: python/profound-learning-disability---primary.py
+inputModule10:
+  class: File
+  path: python/severe-learning-disability---primary.py
+inputModule11:
+  class: File
+  path: python/learning-disability-difficulty---primary.py
+inputModule12:
+  class: File
+  path: python/learning-disability---primary.py
+inputModule13:
+  class: File
+  path: python/disability---primary.py
+inputModule14:
+  class: File
+  path: python/learning---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
